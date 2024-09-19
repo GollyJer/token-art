@@ -482,8 +482,11 @@
                         {
                             "name": "NIIIX",
                             "link": "https://x.com/niiix_____"
-                        },
-                        {
+                            }
+                    ],
+                    "subAssets": []
+                },
+                  {
                             "edition": "32",
                             "name": "BITCOCO",
                             "images": {
@@ -3216,6 +3219,4 @@
                     ]
                 }
             ]
-        }
-    ]
-}
+        }  
