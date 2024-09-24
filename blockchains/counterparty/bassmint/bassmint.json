@@ -1,0 +1,585 @@
+{
+    "chain": "counterparty",
+    "name": "Bassmint",
+    "images": {
+        "avatar": "https://arweave.net/E1_EwprZFEGyElJf370JTWfjicYmT9awYF-CaXmwuJs/logo.png",
+        "banner": ""
+    },
+    "description": "Basemint",
+    "externalLinks": {
+        "website": "https://bassmint.wtf/",
+        "twitter": "https://x.com/Bassmintwtf"
+    },
+    "sets": [
+        {
+            "name": "Genesis Collection",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Track 1",
+                    "name": "MANTRAPEPE",
+                    "images": {
+                        "primary": "https://arweave.net/yOZLOSG2HmQOmiHJ18IpCxTsrIKuX7GxP5tMCkCIM-A/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SebDigital",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 2",
+                    "name": "OFFTHEGRID",
+                    "images": {
+                        "primary": "https://arweave.net/-ptQQmKX1KDT64AyhG8UVDQ1hG4Fm5RRVd1w_aqee5M/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Rare Scrilla",
+                            "link": "https://x.com/ScrillaVentura"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 3",
+                    "name": "BICYCLEDAY",
+                    "images": {
+                        "primary": "https://arweave.net/USPj0n--9L-j9ggw70jCJ4WCPhv2NQQS7y07HG6OtLY/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Rare Scrilla",
+                            "link": "https://x.com/ScrillaVentura"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 4",
+                    "name": "DOWNTOWNLOVE",
+                    "images": {
+                        "primary": "https://arweave.net/JRIdr6zsjePQopeNLUBRUSA4oTd6wYhbQC-wrIDS9oE/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Costa Jpeg",
+                            "link": "https://x.com/costajpeg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 5",
+                    "name": "FAKEGVRMNT",
+                    "images": {
+                        "primary": "https://arweave.net/fBwq5fumZl5SX-7umos9ux7plvd4XHzyECyiAwVKLWc/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ndhoz dotule",
+                            "link": "https://x.com/Ndhoz_dotule"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 6",
+                    "name": "ZYCHEDELIC",
+                    "images": {
+                        "primary": "https://arweave.net/fusSTOeFekpFZ6GgInBvHWjYOspNAmhRU9wX1Rkbklc/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Room in Eight",
+                            "link": "https://x.com/roomineight"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 7",
+                    "name": "FAKESHERO.FAKESPOWER",
+                    "images": {
+                        "primary": "https://arweave.net/I4AwYg4Qu7TzUT83jJLaxowN11inCFheCpackwYhfVc/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "VaJe",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 8",
+                    "name": "MYFORTYFIVE",
+                    "images": {
+                        "primary": "https://arweave.net/amW--uffS8THUzAagKO6923J_a7izkImiT7bD2fjgW8/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Viva La Vandal x Showershoes",
+                            "link": "https://x.com/viva_la_vandal"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 9",
+                    "name": "NOOTHERWAY",
+                    "images": {
+                        "primary": "https://arweave.net/n6HNcLCM2h_Cwf6nPUjCb12XbcgCWqjWLZE4WqCbjEQ/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mellow",
+                            "link": "https://x.com/strategy512"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 10",
+                    "name": "JOSHUAJOSHUA.RUNAWAY",
+                    "images": {
+                        "primary": "https://arweave.net/45OwVgma6rXPSGiQAk2j4KoZEoS9oZkDLbvwNvVcrg8/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Joshua Joshua",
+                            "link": "https://x.com/XjoshuajoshuaX"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 11",
+                    "name": "EYEREEYES.SWAG",
+                    "images": {
+                        "primary": "https://arweave.net/djso5PrDdJGbVnHdPm_xImEFic0qDFVkZrpOu5GWkTA/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "EyereEyes",
+                            "link": "https://x.com/EyereEyes"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 12",
+                    "name": "KEKEBRATE.AMC",
+                    "images": {
+                        "primary": "https://arweave.net/LnKf93HJLYQndL4538DzIopyVJwq0zejWBqwIyFMBgo/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Rito Rhymes",
+                            "link": "https://x.com/Rito_Rhymes"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Album One",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Track 1",
+                    "name": "SPOTLIFE",
+                    "images": {
+                        "primary": "https://arweave.net/AjHW3aSFSJsv_6eMHO78qORunPA0yxRK6p3jUMiSPTo/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Costa Jpeg",
+                            "link": "https://x.com/costajpeg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 2",
+                    "name": "RADAUDIO.ABSTRACTIONS",
+                    "images": {
+                        "primary": "https://arweave.net/-eiqbr_1NQqM_NLrowzbfRCKiT7892mfgwR6-SWl6n8/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "rad audio",
+                            "link": "https://x.com/bitcoinaudio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 3",
+                    "name": "MADNESSPEPE",
+                    "images": {
+                        "primary": "https://arweave.net/USJlDVwuljrPuowIG0_aGxzOurUUmHIosMJgs7JE0GM/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KAWABANGGA_F",
+                            "link": "https://x.com/kawabangga_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 4",
+                    "name": "MUSICART",
+                    "images": {
+                        "primary": "https://arweave.net/sXIrEo3zDNNrXwrQG1cmMLJLCj0qOA1s-XCcQES54Ns/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "The Mule",
+                            "link": "https://x.com/TheMule__"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 5",
+                    "name": "MUCHBASS",
+                    "images": {
+                        "primary": "https://arweave.net/QeurkS4UW24V-mcucxp7kZVZODOhhnRAnrC8g-MAFh4/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "simsa",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 6",
+                    "name": "PEPEFUNK",
+                    "images": {
+                        "primary": "https://arweave.net/dde3o3pMHdgEQK15Cbxbwp0B11QGGGgiB9Cq2Eiryng/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dany",
+                            "link": "https://x.com/DanyImanR"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 7",
+                    "name": "MELKREBORN",
+                    "images": {
+                        "primary": "https://arweave.net/9xkkWy6wLDDeA2guxPliHbA3oWLlgXNdtmoQVXKTYCA/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Melk",
+                            "link": "https://x.com/MelkRhm"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 8",
+                    "name": "SEVNDAYZHERB",
+                    "images": {
+                        "primary": "https://arweave.net/R-NtOaFLSifep-mWttfMQp1BqA2mEykGqfm7Ntr3aOM/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MAS P ft. SEANIE T",
+                            "link": "https://x.com/mxdape"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 9",
+                    "name": "NOXLIMIT",
+                    "images": {
+                        "primary": "https://arweave.net/oLAZei2j2ShFJmh8cklq_1pK78Itg1o5kIXrCPw7BgU/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Room in Eight",
+                            "link": "https://x.com/roomineight"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 10",
+                    "name": "EKAFKERAM",
+                    "images": {
+                        "primary": "https://arweave.net/7lOIFdJ_5reJvq15B950K2NMFq5yr0GxchYnf8ADsno/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Arwyn",
+                            "link": "https://x.com/mrarwyn"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 11",
+                    "name": "KANECARROTS",
+                    "images": {
+                        "primary": "https://arweave.net/mx6DOtJi6Wi3GDKV9WzESQVFRYrP41E_K4SF_w4MmEQ/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kane Mayfield",
+                            "link": "https://x.com/kanemayfield"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 12",
+                    "name": "THATSRIGHT",
+                    "images": {
+                        "primary": "https://arweave.net/OXxYc0n2oQ8HM1N2yaUmHrvn8MmlagwyXJzWdUk-r_Q/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Theo Goodman",
+                            "link": "https://x.com/theog__"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 13",
+                    "name": "RIMINISIXAM",
+                    "images": {
+                        "primary": "https://arweave.net/8q7QWrjKgQtlhJ3q0xvowdxLuhhGS4q_El2pyrEPNIQ/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pedestrian x FWD",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 14",
+                    "name": "LIBERTYONE",
+                    "images": {
+                        "primary": "https://arweave.net/eF4_ZkTXDCQZV9J9BTWX4luq_DWaqG9WKsNNmFqaFcQ/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Liberty1",
+                            "link": "https://x.com/Dj_Liberty1"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 15",
+                    "name": "ENLAKETCH",
+                    "images": {
+                        "primary": "https://arweave.net/NWIMfTSxNjbfAeo4xN36H983g79ql1NpW4v-RkeAQ3Y/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Baba Shakka the Saint",
+                            "link": "https://x.com/themindofshakka"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 16",
+                    "name": "GEEKIN",
+                    "images": {
+                        "primary": "https://arweave.net/VXUC0AUbAVbR4AugPv8yaizYACWj26Lb43UknZ9CGbM/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dr. Andy Milligram",
+                            "link": "https://x.com/doctorandymg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 17",
+                    "name": "SPACEFALL",
+                    "images": {
+                        "primary": "https://arweave.net/dU3Yh02lWRaawg7prN4y0TwkRcQb7fwo2jc9tZY8aHA/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SebDigital",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 18",
+                    "name": "EYEREEYES.BIGSTEPPA",
+                    "images": {
+                        "primary": "https://arweave.net/Z5lZBbszLSHLX61djh15GGpMUBYiOlOOgAqevjO72cU/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "EyereEyes",
+                            "link": "https://x.com/eyereeyes"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 19",
+                    "name": "DROPPEDIN",
+                    "images": {
+                        "primary": "https://arweave.net/Q9FU0pkRjxJlbbXDJMfV8FqzlGDU5_Pif2Q9ZSuHirk/image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "El Cholo Pepe",
+                            "link": "https://x.com/elcholopepe"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 20",
+                    "name": "BASEDBEAT",
+                    "images": {
+                        "primary": "https://arweave.net/zGg15zqmJe-10KrgCm736Lft-vkwyxUOABRQlRMYlec/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "PurpLeTariat x Keyboard Kid",
+                            "link": "https://x.com/tipyourdjdoteth"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Album Two",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Track 1",
+                    "name": "Never Change",
+                    "images": {
+                        "primary": "https://arweave.net/fnDFZb9bvuQlzgL3U24jFjufO-wTq9KHYfLLvFBR4YI/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Skaz One",
+                            "link": "https://x.com/SkazOne"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 2",
+                    "name": "TIMEISRUNNIN",
+                    "images": {
+                        "primary": "https://arweave.net/M62dDJG13mK12Ety4dHzvIeSA_QQNjqygikN9Z2WcJs/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Chrxnx",
+                            "link": "https://x.com/Chrxnx"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 3",
+                    "name": "DLUXLUX",
+                    "images": {
+                        "primary": "https://arweave.net/3F0AC-vCyba-K_d76xMQNwJtbYnBibF84gORNQasV78/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "DLUXLUX",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Track 4",
+                    "name": "RASTAMAN",
+                    "images": {
+                        "primary": "https://arweave.net/d18vThBf3kbCIbX1Y7EDxGfMzYASA3FuBIxELyrYVcI/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "LvsD",
+                            "link": "https://x.com/Zbyku"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        }
+    ]
+}
